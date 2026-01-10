@@ -6,9 +6,9 @@ Email Me 👉 himanshumishra.9871@gmail.com For Collaboration/Project or Anythin
 - 🔭 I’m currently persuing BCA Degree
 - 🌱 I’m currently learning: AI/ML
 - 💬 Ask me about Collaboration, Tech Support 
-- 📫 How to reach me: 
+- 📫 How to reach me: Mail ✉
 - 😄 Pronouns: Mishra ji
-- ⚡ Fun fact: I love Codeing
+- ⚡ Fun fact: I love Coding
 
 
 ## 🌐 Socials:
