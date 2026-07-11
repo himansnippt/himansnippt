@@ -1,7 +1,7 @@
 ## Hi 👋 , I'm Himanshu Mishra
 A passionate Data Sciemce Student
 
-Email Me 👉 himanshumishra.9871@gmail.com For Collaboration/Project or Anything Else 
+Email Me 👉 himanshumishra.work78@gmail.com For Collaboration/Project or Anything Else 
 
 - 🔭 I’m currently persuing BCA Degree
 - 🌱 I’m currently learning: AI/ML
