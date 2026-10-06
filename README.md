@@ -3,7 +3,7 @@
 # Hi 👋, I'm Himanshu Mishra!
 
 <a href="https://github.com/himansnippt">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=52B788&center=true&vCenter=true&width=650&height=50&lines=A+Passionate+Data+Science+Student+%F0%9F%93%8A;🔭+Currently+pursuing+BCA+Degree+%F0%9F%8E%93;🌱+Currently+learning%3A+AI+%2F+ML+%F0%9F%A7%A0;Pronouns%3A+Mishra+ji+%F0%9F%98%84;Fun+fact%3A+I+love+Coding+%E2%9A%A1" alt="Dynamic Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=52B788&center=true&vCenter=true&width=650&height=50&lines=A+Passionate+Data+Science+Student;Currently+pursuing+BCA+Degree;Currently+learning+AI+%26+Machine+Learning;Pronouns%3A+Mishra+ji;Fun+fact%3A+I+love+Coding!" alt="Dynamic Typing Intro" />
 </a>
 
 <p align="center">
@@ -61,7 +61,6 @@ Fun Fact: ⚡ I love Coding (and turning raw data into actionable insights!)
 ## 💻 Tech Stack in Motion
 
 <div align="center">
-  <p><i>Technologies appearing one by one in typewriter sequence:</i></p>
   <a href="https://github.com/himansnippt">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2400&pause=900&color=2EA043&center=true&vCenter=true&width=620&height=55&lines=%E2%9A%A1+Python+%E2%80%A2+Pandas+%E2%80%A2+NumPy+%E2%80%A2+Scikit-Learn;%E2%9A%A1+JavaScript+(ES6%2B)+%E2%80%A2+HTML5+%E2%80%A2+Tailwind+CSS;%E2%9A%A1+PapaParse+%E2%80%A2+JSZip+%E2%80%A2+Zero-Server+Engines;%E2%9A%A1+Levenshtein+Distance+%E2%80%A2+Median+Imputation;%E2%9A%A1+Git+%E2%80%A2+GitHub+%E2%80%A2+Vercel+%E2%80%A2+VS+Code" alt="Skills Typing Animation" />
   </a>
