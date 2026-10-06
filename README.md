@@ -1,51 +1,79 @@
 <div align="center">
 
-# 🌿 Hi there, I'm Himanshu Mishra! 👋
+# Hi 👋, I'm Himanshu Mishra!
 
 <a href="https://github.com/himansnippt">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=52B788&center=true&vCenter=true&width=650&height=50&lines=Data+Science+%26+AI+Builder+%F0%9F%93%8A;Creator+of+Sift+Studio+%F0%9F%8C%BF;BCA+Student+%40+GGSIPU+%F0%9F%8E%93;Passionate+about+Client-First+Data+Tools+%E2%80%A2" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=52B788&center=true&vCenter=true&width=650&height=50&lines=A+Passionate+Data+Science+Student+%F0%9F%93%8A;🔭+Currently+pursuing+BCA+Degree+%F0%9F%8E%93;🌱+Currently+learning%3A+AI+%2F+ML+%F0%9F%A7%A0;Pronouns%3A+Mishra+ji+%F0%9F%98%84;Fun+fact%3A+I+love+Coding+%E2%9A%A1" alt="Dynamic Typing Intro" />
 </a>
 
 <p align="center">
-  <b>BCA Final Year Student @ GGSIPU (TIIPS, Delhi)</b> • <i>Enthusiastic about Data Science, Machine Learning, and High-Performance Client Tools</i>
+  <b>A Passionate Data Science Student & AI / ML Explorer</b><br>
+  <i>Crafting fast, privacy-first data applications and exploring algorithmic intelligence.</i>
 </p>
 
+<!-- COLLABORATION CALLOUT -->
 <p align="center">
-  <a href="mailto:himanshumishra.9871@gmail.com"><img src="https://img.shields.io/badge/Email-himanshumishra.9871%40gmail.com-1B4332?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/himansnippt"><img src="https://img.shields.io/badge/GitHub-himansnippt-24292e?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://github.com/himansnippt"><img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20AI-52B788?style=flat-square" alt="Focus" /></a>
+  <a href="mailto:himanshumishra.work78@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me%20👉-himanshumishra.work78%40gmail.com-1B4332?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me For Collaboration" />
+  </a>
 </p>
-
----
+<p align="center">
+  <sub>✨ Open for Collaboration, Exciting Projects, and Tech Discussions!</sub>
+</p>
 
 </div>
 
-## 💫 About Me
+---
 
-- 🔭 **Currently Building:** [**Sift Studio**](https://github.com/himansnippt/sift-studio) — A zero-server, browser-native CSV data cleaning and imputation engine.
-- 🎓 **Academics:** BCA 5th Semester at Trinity Institute of Professional Studies (TIIPS / GGSIPU).
-- 🧠 **Current Learning Focus:** Artificial Intelligence (Heuristic Search & CSP), Natural Language Processing, and Computer Networks.
-- ⚡ **Engineering Philosophy:** Building tools where **privacy comes first** — process 100,000+ data records in-memory without sending raw files over the internet.
-- 💬 **Ask me about:** Python, Pandas, client-side data streaming, fuzzy matching algorithms, and modern frontend styling.
+### 👨‍💻 Quick Snapshot
+
+```yaml
+Name: Himanshu Mishra
+Pronouns: Mishra ji 😄
+Academics: 🔭 Currently pursuing BCA Degree (TIIPS / GGSIPU, Delhi)
+Learning: 🌱 AI / Machine Learning (Heuristic Search, NLP & Neural Architectures)
+Focus: Data Science, Clean In-Memory Architectures & Machine Learning
+Reach: 📫 Mail ✉ -> himanshumishra.work78@gmail.com
+Ask Me About: 💬 Collaboration, Tech Support & Client-Side Data Engines
+Fun Fact: ⚡ I love Coding (and turning raw data into actionable insights!)
+```
 
 ---
 
-## ⚡ Skills in Motion
+## 🌐 Connect With Me
+
+<div align="left">
+
+<a href="mailto:himanshumishra.work78@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-himanshumishra.work78%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://github.com/himansnippt">
+  <img src="https://img.shields.io/badge/GitHub-himansnippt-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:himanshumishra.work78@gmail.com?subject=Collaboration%20Inquiry">
+  <img src="https://img.shields.io/badge/Status-Open%20for%20Collaboration-52B788?style=for-the-badge&logo=handshake&logoColor=white" alt="Collaboration" />
+</a>
+
+</div>
+
+---
+
+## 💻 Tech Stack in Motion
 
 <div align="center">
-  <p><i>Technologies appearing in real-time typewriter sequence:</i></p>
+  <p><i>Technologies appearing one by one in typewriter sequence:</i></p>
   <a href="https://github.com/himansnippt">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2400&pause=900&color=2EA043&center=true&vCenter=true&width=620&height=55&lines=%E2%9A%A1+Python+%E2%80%A2+Pandas+%E2%80%A2+NumPy+%E2%80%A2+Scikit-Learn;%E2%9A%A1+JavaScript+(ES6%2B)+%E2%80%A2+HTML5+%E2%80%A2+Tailwind+CSS;%E2%9A%A1+PapaParse+%E2%80%A2+JSZip+%E2%80%A2+Client-Side+Streaming;%E2%9A%A1+Levenshtein+Distance+%E2%80%A2+Median+Imputation;%E2%9A%A1+Git+%E2%80%A2+GitHub+%E2%80%A2+Vercel+%E2%80%A2+VS+Code" alt="Skills Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2400&pause=900&color=2EA043&center=true&vCenter=true&width=620&height=55&lines=%E2%9A%A1+Python+%E2%80%A2+Pandas+%E2%80%A2+NumPy+%E2%80%A2+Scikit-Learn;%E2%9A%A1+JavaScript+(ES6%2B)+%E2%80%A2+HTML5+%E2%80%A2+Tailwind+CSS;%E2%9A%A1+PapaParse+%E2%80%A2+JSZip+%E2%80%A2+Zero-Server+Engines;%E2%9A%A1+Levenshtein+Distance+%E2%80%A2+Median+Imputation;%E2%9A%A1+Git+%E2%80%A2+GitHub+%E2%80%A2+Vercel+%E2%80%A2+VS+Code" alt="Skills Typing Animation" />
   </a>
 </div>
 
 <br />
 
-### 🛠️ Tech Stack & Tooling
+### 🛠️ Languages, Tools & Frameworks
 
 <table>
   <tr>
-    <td align="left" width="25%"><b>Programming Languages</b></td>
+    <td align="left" width="28%"><b>Programming Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -55,24 +83,24 @@
     </td>
   </tr>
   <tr>
-    <td align="left"><b>Data Science & AI</b></td>
+    <td align="left"><b>Data Science & AI / ML</b></td>
     <td>
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
       <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
       <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-      <img src="https://img.shields.io/badge/NLP-Algorithms-1B4332?style=for-the-badge&logo=probot&logoColor=white" alt="NLP" />
+      <img src="https://img.shields.io/badge/AI%20%26%20NLP-1B4332?style=for-the-badge&logo=openai&logoColor=white" alt="AI & NLP" />
     </td>
   </tr>
   <tr>
-    <td align="left"><b>Frontend & Libraries</b></td>
+    <td align="left"><b>Frontend & Data Engines</b></td>
     <td>
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-      <img src="https://img.shields.io/badge/PapaParse-Chunking-52B788?style=for-the-badge&logo=files&logoColor=white" alt="PapaParse" />
-      <img src="https://img.shields.io/badge/JSZip-In--Memory-2D6A4F?style=for-the-badge&logo=archive&logoColor=white" alt="JSZip" />
+      <img src="https://img.shields.io/badge/PapaParse-Chunked%20Streaming-52B788?style=for-the-badge&logo=files&logoColor=white" alt="PapaParse" />
+      <img src="https://img.shields.io/badge/JSZip-In--Memory%20Decompression-2D6A4F?style=for-the-badge&logo=archive&logoColor=white" alt="JSZip" />
     </td>
   </tr>
   <tr>
-    <td align="left"><b>Tools & Platforms</b></td>
+    <td align="left"><b>Development & Deployment</b></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -84,28 +112,46 @@
 
 ---
 
-## 🌟 Featured Project: Sift Studio 🌿
+## 🔝 Top Contributed & Featured Repositories
 
 <div align="center">
   <table width="100%">
     <tr>
-      <td>
-        <h3>🌿 Sift Studio — In-Browser Data Refinement Engine</h3>
-        <p>A fast, private, and zero-server data quality platform built to clean, standardize, and impute dataset anomalies directly in the browser.</p>
-        <ul>
-          <li><b>Zero-Server Privacy:</b> Raw CSVs never leave the user's browser (100% in-memory DOM execution).</li>
-          <li><b>High-Capacity Processing:</b> Handles 100,000+ rows smoothly with chunked parsing via PapaParse.</li>
-          <li><b>Algorithmic Intelligence:</b> Levenshtein fuzzy string deduplication & numerical median imputation.</li>
-          <li><b>ZIP Archive Support:</b> Automatic in-memory decompression of compressed data bundles using JSZip.</li>
-        </ul>
+      <td width="50%" valign="top">
+        <h3>🌿 Sift Studio (Flagship Project)</h3>
+        <p><b>Client-Side Zero-Server Data Cleaning & Imputation Engine</b></p>
+        <p>Processes 100,000+ row datasets and ZIP archives directly in browser memory without sending user files to the cloud.</p>
         <p>
-          <img src="https://img.shields.io/badge/Architecture-100%25%20Client--Side-52B788?style=flat-square" alt="Client-Side" />
-          <img src="https://img.shields.io/badge/Tech-Vanilla%20JS%20%7C%20Tailwind%20%7C%20PapaParse-1B4332?style=flat-square" alt="Tech" />
-          <img src="https://img.shields.io/badge/Status-Live%20Ready-brightgreen?style=flat-square" alt="Status" />
+          <img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=flat-square" alt="Status" />
+          <img src="https://img.shields.io/badge/Privacy-100%25%20In--Browser-52B788?style=flat-square" alt="Privacy" />
         </p>
+        <p>👉 <a href="https://github.com/himansnippt/sift-studio"><b>Explore Repository</b></a></p>
+      </td>
+      <td width="50%" valign="top">
+        <h3>📊 Data Science Learning & AI Exploration</h3>
+        <p><b>Algorithms, Data Pipelines & Problem Solving</b></p>
+        <p>Curated implementations of Heuristic Search, NLP tokenizers, Levenshtein distance metrics, and exploratory data analysis.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Domain-AI%20%26%20Data%20Science-1B4332?style=flat-square" alt="Domain" />
+          <img src="https://img.shields.io/badge/Focus-BCA%20%26%20Beyond-3776AB?style=flat-square" alt="Focus" />
+        </p>
+        <p>👉 <a href="https://github.com/himansnippt"><b>View Repositories</b></a></p>
       </td>
     </tr>
   </table>
+</div>
+
+---
+
+## 🏆 GitHub Achievements & Trophies
+
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/Achievement-Pull%20Shark-gold?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark" />
+    <img src="https://img.shields.io/badge/Achievement-Quickdraw-52B788?style=for-the-badge&logo=github&logoColor=white" alt="Quickdraw" />
+    <img src="https://img.shields.io/badge/Achievement-Starstruck-orange?style=for-the-badge&logo=github&logoColor=white" alt="Starstruck" />
+    <img src="https://img.shields.io/badge/Achievement-Pair%20Extraordinaire-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Pair Extraordinaire" />
+  </p>
 </div>
 
 ---
